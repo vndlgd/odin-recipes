@@ -1,0 +1,41 @@
+body {
+    width: 100vw;
+    height: 100vw;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    text-align: center;
+}
+
+.name {
+    background-color: #fff8f0;
+    color: black;
+    font-size: 50px;
+    font-family: "Montserrat", sans-serif;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-weight: 700;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li a {
+    color: #c2c2c2;
+    text-decoration: none;
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+}
+
+li a:hover,
+a:focus {
+    color: #555;
+}
+
+a {
+    text-underline-offset: 10px;
+}
