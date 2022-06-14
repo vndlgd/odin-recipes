@@ -1,4 +1,4 @@
-body {
+.homepage {
     width: 100vw;
     height: 100vw;
     background-size: cover;
@@ -8,16 +8,32 @@ body {
     text-align: center;
 }
 
-.name {
-    background-color: #fff8f0;
+.title {
     color: black;
     font-size: 50px;
     font-family: "Montserrat", sans-serif;
-    margin: 0 auto;
+    margin: 10px;
+    position: relative;
+    font-weight: 700;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+}
+
+.name {
+    color: lasagna;
+    font-size: 50px;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px;
+    padding: 10px;
     justify-content: center;
     align-items: center;
     position: relative;
     font-weight: 700;
+    box-sizing: content-box;
+    display: block;
+    border-radius: 5px;
+    width: fit-content;
 }
 
 ul {
@@ -25,7 +41,6 @@ ul {
 }
 
 li a {
-    color: #c2c2c2;
     text-decoration: none;
     font-family: "Montserrat", sans-serif;
     font-size: 18px;
