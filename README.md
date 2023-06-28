@@ -16,12 +16,7 @@ https://vndlgd.github.io/odin-recipes/
 
 ## Features
 
-List the key features of your project, such as:
-
 - Browse and view a collection of recipes
-- Add a new recipe with title, ingredients, instructions, and optional image
-- Edit existing recipes
-- Delete unwanted recipes
 
 ## Setup and Usage
 
