@@ -4,14 +4,6 @@ This project is part of The Odin Project's "Foundations" curriculum, specificall
 
 <img width="800" alt="Screenshot 2023-06-28 at 2 15 48 AM" src="https://github.com/vndlgd/odin-recipes/assets/46804151/1fe2d5f6-805c-4517-91b2-54946b7195db">
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Setup and Usage](#setup-and-usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Demo
 
 https://vndlgd.github.io/odin-recipes/
@@ -32,10 +24,6 @@ cd odin-recipes
 3. Open the `index.html` file in your web browser to access the application.
 
 4. Explore the recipe website and browse existing recipes!
-
-## License
-
-[MIT License](LICENSE)
 
 
 
