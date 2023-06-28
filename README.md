@@ -2,6 +2,8 @@
 
 This project is part of The Odin Project's "Foundations" curriculum, specifically the recipe assignment. The goal of this project is to create a recipe website using HTML and CSS, where users can view recipes.
 
+<img width="800" alt="Screenshot 2023-06-28 at 2 15 48 AM" src="https://github.com/vndlgd/odin-recipes/assets/46804151/1fe2d5f6-805c-4517-91b2-54946b7195db">
+
 ## Table of Contents
 
 - [Demo](#demo)
